@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋 I'm Chandrahas K J
 
-<!--
-**Chandrahas-K-J/Chandrahas-K-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics and Communication Engineering Student
+Karpagam College of Engineering | Aspiring Software & ServiceNow Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Final Year ECE Student
+- Learning ServiceNow Development
+- Java Developer
+- C# Developer
+- Python Enthusiast
+- Interested in Full Stack Development
+
+---
+
+## Skills
+
+Programming
+- Java
+- Python
+- C#
+- SQL
+
+Web
+- HTML
+- CSS
+- JavaScript
+
+Frameworks
+- .NET
+- ServiceNow
+
+Tools
+- Git
+- GitHub
+- VS Code
+- Visual Studio
+
+---
+
+## Featured Projects
+
+### Equipment Request Manager
+ServiceNow Scoped Application
+
+Features:
+- Equipment Request Form
+- Flow Designer
+- Approval Workflow
+- Email Notification
+- Dashboard Reports
+
+Repository:
+https://github.com/Chandrahas-K-J/Equipment-Request-Manager
+
+---
+
+### Sri Saradha Transport Booking System
+
+Bus Ticket Booking Website
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### Smart Electricity Billing Summary System
+
+Desktop Application
+
+---
+
+### Portfolio Website
+
+Personal Portfolio
+
+---
+
+## Connect with Me
+
+LinkedIn:
+(Your LinkedIn Profile)
+
+Email:
+(Your Email)

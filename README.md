@@ -64,7 +64,7 @@ Become a Software Engineer and build enterprise-level applications.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js,mysql,git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,mysql,git,github,vscode,visualstudio"/>
 
 </p>
 
@@ -169,49 +169,6 @@ Desktop application for electricity bill management.
 - User Friendly Interface
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandrahas-K-J&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrahas-K-J&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrahas-K-J&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrahas-K-J&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chandrahas-K-J&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - ServiceNow Administration

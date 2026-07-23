@@ -83,8 +83,6 @@ Personal Portfolio
 
 ## Connect with Me
 
-LinkedIn:
-(Your LinkedIn Profile)
+LinkedIn:https://www.linkedin.com/in/chandrahas-k-j-b77723292/
 
-Email:
-(Your Email)
+Email:kjchandrahas.ece@gmail.com

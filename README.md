@@ -211,7 +211,7 @@ Desktop application for electricity bill management.
 
 # 💬 Quote
 
-> "Success is built one project at a time."
+> "I am not collecting achievements..I am trying to collect  proof that I didn't quit..."
 
 ---
 

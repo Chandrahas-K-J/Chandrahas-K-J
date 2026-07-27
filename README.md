@@ -211,7 +211,7 @@ Desktop application for electricity bill management.
 
 # 💬 Quote
 
-> "I am not collecting achievements..I am trying to collect  proof that I didn't quit..."
+> "Don't cry over a missed opportunity. Your tears might hide the better one waiting ahead......"
 
 ---
 

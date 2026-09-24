@@ -1,232 +1,163 @@
-<h1 align="center">Hi 👋, I'm Chandrahas K J</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Aspiring Software Engineer | ServiceNow Developer | Java Developer | Python Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=CHANDRAHAS%20K%20J&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=%20&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;ServiceNow+Developer;Java+Developer;Python+Programmer;Electronics+%26+Communication+Engineer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00BFFF&center=true&vCenter=true&width=760&height=50&lines=Now+Showing%3A+ServiceNow+Developer;Starring%3A+Java+%7C+Python+%7C+SQL;Genre%3A+Enterprise+Workflow+Automation;Rated%3A+Always+Learning+%F0%9F%9A%80;Coming+Soon%3A+Software+Engineer+Role" alt="Typing animation" />
+
+<br/>
+
+![Role](https://img.shields.io/badge/ROLE-ServiceNow%20Developer-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<a href="https://www.linkedin.com/in/chandrahas-k-j-b77723292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://chandrahas-kj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:kjchandrahas.ece@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
 
 ---
 
-# 👨‍💻 About Me
+> *"An Electronics & Communication Engineering student who fell in love with building enterprise software."*
 
-🎓 Electronics and Communication Engineering Student
+</div>
 
-🏫 Karpagam College of Engineering
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-💻 Passionate about Software Development
+### 🎓 Origin Story
+- **Student**, Electronics & Communication Engineering
+- 🏫 **Karpagam College of Engineering**
+- 💻 Passionate about software development
 
-🌱 Currently Learning
+### 🎯 The Mission
+Become a **Software Engineer** and build **enterprise-level applications**.
 
-- ServiceNow Development
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Current Training Arc
+- ServiceNow Administration & Development
 - Java Full Stack
-- Python
-- SQL
-- Git & GitHub
+- Python & SQL
+- REST APIs
+- Git & GitHub Best Practices
 
-🚀 Interested In
+### 🔭 Drawn To
+ServiceNow · Full Stack · Workflow Automation · Cloud
 
-- ServiceNow
-- Full Stack Development
-- Java Development
-- Workflow Automation
-- Cloud Technologies
-
-🎯 Career Goal
-
-Become a Software Engineer and build enterprise-level applications.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+### 🛠 The Tech Stack
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
-<a href="https://www.linkedin.com/in/chandrahas-k-j-b77723292/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<br/><br/>
 
-<a href="https://chandrahas-kj.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+### ⚙️ The ServiceNow Arsenal
 
-<a href="mailto:kjchandrahas.ece@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+![Flow Designer](https://img.shields.io/badge/Flow%20Designer-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Service Catalog](https://img.shields.io/badge/Service%20Catalog-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Client Scripts](https://img.shields.io/badge/Client%20Scripts-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![UI Policies](https://img.shields.io/badge/UI%20Policies-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Business Rules](https://img.shields.io/badge/Business%20Rules-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![ACL](https://img.shields.io/badge/ACL-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Reports](https://img.shields.io/badge/Reports-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Platform Analytics](https://img.shields.io/badge/Platform%20Analytics-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Scoped Apps](https://img.shields.io/badge/Scoped%20Applications-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
+![Notifications](https://img.shields.io/badge/Notifications-1f2937?style=flat-square&logo=servicenow&logoColor=62D84E)
 
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,mysql,git,github,vscode,visualstudio"/>
-
-</p>
+</div>
 
 ---
 
-# ⚙️ ServiceNow Skills
+<h2 align="center"> &nbsp; PROJECTS </h2>
 
-- Flow Designer
-- Service Catalog
-- Client Scripts
-- UI Policies
-- Business Rules
-- ACL
-- Reports
-- Platform Analytics
-- Scoped Applications
-- Notifications
+### Equipment Request Manager &nbsp; ![ServiceNow](https://img.shields.io/badge/ServiceNow-Scoped%20App-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 
----
+A complete **ServiceNow Scoped Application** for requesting, approving, and tracking IT equipment, from request form to final approval.
 
-# 🚀 Featured Projects
+| 🎥 Features | 🛠 Built With |
+|---|---|
+| Equipment request form | ServiceNow Scoped App |
+| Approval workflow | Flow Designer |
+| Email notifications | UI Policies & Client Scripts |
+| ACL security | Business Rules |
+| Reporting dashboard & Platform Analytics | ACL |
+| Request tracking | |
 
-## 🔹 Equipment Request Manager
+<a href="https://github.com/Chandrahas-K-J/Equipment-Request-Manager"><img src="https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-00BFFF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-A complete **ServiceNow Scoped Application** for requesting, approving, and tracking IT equipment.
+<br/>
 
-### ⭐ Features
+<details>
+<summary><b> More screenings (click to expand)</b></summary>
 
-- Equipment Request Form
-- Approval Workflow
-- Flow Designer
-- Email Notifications
-- ACL Security
-- Reporting Dashboard
-- Platform Analytics
-- Request Tracking
+<br/>
 
-### 🛠 Technologies
+#### Portfolio Website
+A modern, responsive portfolio showcasing my projects, certifications, skills, and achievements.
 
-- ServiceNow
-- Flow Designer
-- UI Policies
-- Client Scripts
-- Business Rules
-- ACL
+`HTML` `CSS` `JavaScript`
 
-### 🔗 Repository
-
-https://github.com/Chandrahas-K-J/Equipment-Request-Manager
+<a href="https://chandrahas-kj.vercel.app"><img src="https://img.shields.io/badge/▶%20LIVE%20SITE-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
-## 🔹 Portfolio Website
+#### Sri Saradha Transport Booking System
+Responsive online bus ticket booking website with search, seat selection, and booking flow.
 
-A modern responsive portfolio showcasing my projects, certifications, skills, and achievements.
+**Features:** Bus Search · Seat Selection · Booking System · Responsive Design · Modern UI
 
-🌐 Live Website
+`HTML` `CSS` `JavaScript`
 
-https://chandrahas-kj.vercel.app
-
-### Technologies
-
-- HTML
-- CSS
-- JavaScript
+<a href="https://saradhatransports.vercel.app/"><img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
-## 🔹 Sri Saradha Transport Booking System
-
-Responsive Online Bus Ticket Booking Website.
-
-🌐 Live Demo
-
-https://saradhatransports.vercel.app/
-
-### Features
-
-- Bus Search
-- Seat Selection
-- Booking System
-- Responsive Design
-- Modern UI
-
-### Technologies
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 🔹 Smart Electricity Billing Summary System
-
+#### Smart Electricity Billing Summary System
 Desktop application for electricity bill management.
 
-### Features
+**Features:** Bill Summary · Customer Details · Bill Calculation · User-Friendly Interface
 
-- Electricity Bill Summary
-- Customer Details
-- Bill Calculation
-- User Friendly Interface
-
----
-# 📚 Currently Learning
-
-- ServiceNow Administration
-- ServiceNow Development
-- Java Full Stack
-- Python
-- SQL
-- REST APIs
-- GitHub Best Practices
+</details>
 
 ---
 
-# 🎯 2026 Goals
+ 
 
-✅ Become a ServiceNow Certified Developer
+<h2 align="center">🚀 COMING SOON &nbsp;·&nbsp; 2026 SEQUEL</h2>
 
-✅ Master Java Full Stack Development
-
-✅ Build Enterprise-Level Applications
-
-✅ Contribute to Open Source Projects
-
-✅ Publish More Real-World Projects
-
-✅ Secure a Software Engineer Role
+- [ ] 🏆 Become a **ServiceNow Certified Developer**
+- [ ] ☕ Master **Java Full Stack** Development
+- [ ] 🏗️ Build **enterprise-level applications**
+- [ ] 🤝 Contribute to **open source** projects
+- [ ] 📦 Publish more **real-world projects**
+- [ ] 💼 Secure a **Software Engineer** role
 
 ---
 
-# 📌 Featured Repositories
+<div align="center">
 
-⭐ Equipment Request Manager
+ 
 
-⭐ Portfolio Website
+> *"Don't cry over a missed opportunity. Your tears might hide the better one waiting ahead..."*
 
-⭐ Sri Saradha Transport Booking System
+<br/>
 
-⭐ Smart Electricity Billing Summary System
+⭐ **Thanks for visiting my profile!** If you like my work, drop a ⭐ on my repositories. ⭐
 
----
+<br/>
 
-# 💬 Quote
+<img src="https://komarev.com/ghpvc/?username=Chandrahas-K-J&label=Audience&color=0e75b6&style=flat" alt="Profile views" />
 
-> "Don't cry over a missed opportunity. Your tears might hide the better one waiting ahead......"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=footer" width="100%" />
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chandrahas-K-J&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile! ⭐
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</h3>
+</div>
